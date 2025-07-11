@@ -1,0 +1,8 @@
+Name, Age, Email, JoinDate, Salary, Department
+John Doe, 29, john.doe@email.com, 2021-06-15, 50000, Sales
+jane smith, , jane.smith@email.com, 06/18/2021, 52000, sales
+Alice Johnson, 34, alice.j@email.com, 15-07-2021, , HR
+Bob Stone, -45, bob.stone@email.com, 2021-08-01, 48000, HR
+John Doe, 29, john.doe@email.com, 2021-06-15, 50000, Sales
+, 41, no_email, 2021-09-10, 51000, Finance
+Chris , 38, chris@email.com , , 53000, Marketing 

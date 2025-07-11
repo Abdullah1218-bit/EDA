@@ -1,0 +1,11 @@
+Order_ID,Date,customer name,Product,Category,Qty,Price,Total,State,Country,City,Payment_Method,Discount,Profit
+1001,1/15/2024,John Smith,Phone,Electronic,2,500,1000,NY,USA,New York,Credit Card,50,200
+1002,1/17/2024,Alice Johnson,Shoes,Apparel,1,80,80,CA,USA,Los Angeles,Paypal,0,20
+1003,1/20/2024,David Lee,Laptop,Electronics,1,1200,1200,CA,USA,San Fran,Debit,100,250
+1004,2/1/2024,John Smith,T-Shirt,Apparel,3,25,75,NY,USA,New York,Cash,5,10
+1005,2/4/2024,Emma Watson,Phone Case,Electronic,5,15,75,IL,USA,Chicago,Credit Card,10,8
+1006,2/10/2024,Chris Brown,Sneakers,Apparel,2,90,180,TX,USA,Houston,Paypal,0,30
+1007,2/13/2024,Sarah Lee,Headphones,Electronics,1,150,150,FL,USA,Miami,Debit Card,20,25
+1008,18/02/2024,Alice Johnson,Hoodie,Apparel,2,45,19,CA,USA,Los Angeles,Credit Card,5,15
+1009,2/22/2024,David Lee,Monitor,Electronics,1,300,300,CA,USA,San Diego,Cash,25,50
+1010,3/1/2024,John Smith,Socks,Apparel,6,5,30,NY,USA,New York,Debit Card,0,5
